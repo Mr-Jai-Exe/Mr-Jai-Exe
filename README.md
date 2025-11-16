@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mr-Jai-Exe
 - 👀 I’m interested in codes, creating webpage, and creating programs.
 - 🌱 I’m currently learning every code as possible.
-- 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: Trying to work smart not harder.
 
 <!---
